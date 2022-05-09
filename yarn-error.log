@@ -1,0 +1,32 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\AkramSyed\.node\corepack\yarn\1.22.15\bin\yarn.js add nodemon
+
+PATH: 
+  C:\Python310\Scripts\;C:\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\AkramSyed\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\AkramSyed\AppData\Local\Microsoft\WindowsApps;C:\Users\AkramSyed\AppData\Local\Programs\Microsoft VS Code\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\AkramSyed\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\AkramSyed\AppData\Local\Microsoft\WindowsApps;C:\Users\AkramSyed\AppData\Local\Programs\Microsoft VS Code\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\AkramSyed\AppData\Local\Microsoft\WindowsApps;clear;C:\Program Files\nodejs;C:\Users\AkramSyed\AppData\Local\Programs\Microsoft VS Code\bin;C:\Python34\Scripts;C:\Users\AkramSyed\AppData\Roaming\npm;C:\Program Files\MongoDB\Server\5.0\bin;
+
+Yarn version: 
+  1.22.15
+
+Node version: 
+  16.13.2
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.npmjs.org
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+
+npm manifest: 
+  {
+    "name": "ecommerceDashboard",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
